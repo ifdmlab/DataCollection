@@ -63,7 +63,7 @@ Common datasets used in our research
     <td>Trust</td>
     </tr> 
   </table>
- <a href="https://pan.baidu.com/s/1b0oubhEi6HRwN56Al3d5Ew" target="_blank"><b>FourSquare</b></a> [13]: Foursquare is a mobile service website that helps users find the perfect places to go with friends, this data set contains friendship, user ids, venues and check-in data.
+ <a href="https://pan.baidu.com/s/1b0oubhEi6HRwN56Al3d5Ew" target="_blank"><b>FourSquare</b></a> [13]-[16]: Foursquare is a mobile service website that helps users find the perfect places to go with friends, this data set contains friendship, user ids, venues and check-in data.
 </div>
 
 <h3>Music Recommendation</h3>
@@ -254,3 +254,7 @@ mender Systems (HetRec 2011). In Proceedings of the 5th ACM conference on Recomm
 <p> [10]. Wang, Dongjing, et al. "Learning music embedding with metadata for context aware recommendation." Proceedings of the 2016 ACM on International Conference on Multimedia Retrieval. ACM, 2016.</p>
 <p> [11]. Turrin R, Quadrana M, Condorelli A, et al. 30Music Listening and Playlists Dataset[C]//RecSys Posters. 2015. </p>
 <p> [12]. Hao Wang*, Wu-Jun Li, Relational collaborative topic regression for recommender systems. IEEE Transactions on Knowledge and Data Engineering (TKDE), 27(5): 1343-1355, 2015. </p>
+<p> [13]. Mohamed Sarwat, Justin J. Levandoski, Ahmed Eldawy, and Mohamed F. Mokbel. LARS*: A Scalable and Efficient Location-Aware Recommender System. in IEEE Transactions on Knowledge and Data Engineering TKDE</p>
+<p> [14]. Justin J. Levandoski, Mohamed Sarwat, Ahmed Eldawy, and Mohamed F. Mokbel. LARS: A Location-Aware Recommender System. in ICDE 2012</p>
+<p> [15]. Jie Bao, Yu Zheng and Mohamed F. Mokbel. "Location-based and Preference-Aware Recommendation Using Sparse Geo-Social Networking Data". In ACM SIGSPATIAL (GIS 2012), Redondo Beach, CA, US, 2012</p>
+<p> [16]. Ling-Yin Wei,Yu Zheng, Wen-Chih Peng. "Constructing Popular Routes from Uncertain Trajectories". In 18th SIGKDD conference on Knowledge Discovery and Data Mining (KDD 2012).</p>

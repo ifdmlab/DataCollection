@@ -63,6 +63,7 @@ Common datasets used in our research
     <td>Trust</td>
     </tr> 
   </table>
+ <a href="https://pan.baidu.com/s/1b0oubhEi6HRwN56Al3d5Ew" target="_blank"><b>FourSquare</b></a> [13]: Foursquare is a mobile service website that helps users find the perfect places to go with friends, this data set contains friendship, user ids, venues and check-in data.
 </div>
 
 <h3>Music Recommendation</h3>
